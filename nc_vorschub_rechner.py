@@ -70,7 +70,3 @@ while set_flag:
     
     else:
         calc_vc()
-
-    # calc_vf(18000, 2, 0.1)
-    # calc_n(150, 12)
-
